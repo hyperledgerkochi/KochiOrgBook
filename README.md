@@ -1,2 +1,2 @@
 # KochiOrgBook
-The Orgbook for Kochi
+TheOrgbook for Kochi
