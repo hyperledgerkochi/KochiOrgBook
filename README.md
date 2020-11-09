@@ -46,6 +46,26 @@ This utility aims to cut down the red tape and improve the overall efficiency of
 
    This use case is focused on providing individual with basic verification services like Email verification service, Phone number verification service etc. With this each user can prove their ownership over their informations like email-id/phone number and they will be provided with a DID for these information which can be stored in a digital wallet app. 
 
+5. Creating student credentials for applying admission to external Universities
+
+   **Verifiable/Issuing Association - Universities and Educational Institutions (Kochi)**
+   
+   Often a student will have to share multiple credential information for applying admission to external universities. The student would need to apply and secure many of these credentials from different source independently. Not every student may be well versed with the formalities involved this and this results in students incurring delays and cost for securing all the required credentials for applying to external Universities. Lack of transparency in the process also causes some students to miss out on the requesting credentials in specific format which forces them to miss out on apply for admissions.
+
+   This use case is focused on enabling a student to collect all required digital credentials /proofs and submit them in a timely manner leveraging a workflow which offers transparency, enhance efficiency, and reduces cost to apply for admissions.
+
+6. University issued digital credential
+   
+   **Verifiable/Issuing Association - Universities and Educational Institutions (Kochi)**
+
+   In this use case, a student under a particular university will be issued a DID proving him/her a valid student under the university. By leveraging this DID, he/she can work through the university related processes with ease.
+
+
+   
+
+
+
+
 
    
 
