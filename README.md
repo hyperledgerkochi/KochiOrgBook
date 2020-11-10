@@ -1,5 +1,22 @@
 # KochiOrgBook
 
+## Table of Contents
+
+1. Overview
+2. Key Use Cases
+   1. Medical Practitioners
+   2. Lawyers
+   3. Driving License
+   4. Verification services to provide specific digital identities
+   5. Creating student credentials for applying admission to external Universities
+   6. University issued digital credential
+3. Generic Use Cases
+4. KochiOrgBook – Community project initiative for the City of Kochi​
+5. KochiOrgBook sub projects​
+6. Community groups
+
+## Overview
+
 KochiOrgBook is a **Verifiable Organization Network** for the city of Kochi. It is a technology demonstrator to launch a [DID](https://github.com/hyperledgerkochi/KochiOrgBook/blob/master/Glossary.md#did--decentralized-identifier) based utility compliant with the [ToIP](https://github.com/hyperledgerkochi/KochiOrgBook/blob/master/Glossary.md#toip--trust-over-ip-foundation) standards to enable Trusted digital verification service for various association within the city of Kochi.​
 
 The objective of this initiative was to enable business entities to avail permits or licenses from Government in a transparent and efficient manner and in the current form it may not be feasible for an ordinary citizen to confirm if these association are valid or not due to chance of forgery of documents and we often trust the documents they present making it quite easy to misguide anyone.
@@ -13,6 +30,10 @@ takes time and a lot of effort.
 This utility aims to cut down the red tape and improve the overall efficiency of the current processes.
 
 ## Key Use Cases 
+
+This initiative can work around a number of use cases under a particular jurisdiction. A few of the key use cases are listed below.
+
+![Key Use Cases](images/kob_key_use_cases.png)
 
 1. Medical Practitioners
    
@@ -60,11 +81,24 @@ This utility aims to cut down the red tape and improve the overall efficiency of
 
    In this use case, a student under a particular university will be issued a DID proving him/her a valid student under the university. By leveraging this DID, he/she can work through the university related processes with ease.
 
+## Generic Use Cases
+
+![KOB Generic Use Cases](images/kob_generic_use_case.png)
 
    
+## KochiOrgBook – Community project initiative for the City of Kochi​
+
+![KOB Community initiative](images/kob_community_initiative.png)
 
 
+## KochiOrgBook sub projects​
 
+![KOB sub projects](images/kob_sub_projects.png)
+
+
+## Community groups
+
+![kob community groups](images/kob_community_groups.png)
 
 
    

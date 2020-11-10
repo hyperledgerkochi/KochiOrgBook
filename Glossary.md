@@ -11,7 +11,6 @@ DIDs are globally unique identifiers that are created by their owner, independen
 by the DID owner (and the owner holds the corresponding private keys), and one or more endpoints - addresses where messages can be delivered for that identity. A DID can 
 be uniquely resolved (like a URL) to return the the data (public keys and endpoints) associated with the DID. 
 
-![example for did](images/DID.png)
 
 ***
 
@@ -27,7 +26,6 @@ The picture below is an example of some communicating Indy Agents. The Edge Agen
 Enterprise. The Cloud Agents facilitate the messaging by, for example, providing a permanent endpoint for a device that may or may not be online at the time messages are 
 being received.
 
-![example for some communicating Indy Agents](images/wallets&agents.png)
 
 ***
 
@@ -49,7 +47,6 @@ receiver ("Verifier") can be certain:
 As the image below shows, the data flow for Verifiable Credentials is the same as with paper documents - Issuers give Verifiable Credentials to the Holder, and the Holder 
 can prove them to Verifiers at any time.
 
-![VC flow](images/VC_flow.png)
 
 ***
 
