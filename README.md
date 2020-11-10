@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-1. Overview
-2. Key Use Cases
+1. [Overview](https://github.com/hyperledgerkochi/KochiOrgBook#overview)
+2. [Key Use Cases](https://github.com/hyperledgerkochi/KochiOrgBook#key-use-cases)
    1. Medical Practitioners
    2. Lawyers
    3. Driving License
@@ -35,7 +35,7 @@ This initiative can work around a number of use cases under a particular jurisdi
 
 ![Key Use Cases](images/kob_key_use_cases.png)
 
-1. Medical Practitioners
+1. ### Medical Practitioners
    
    **Verifiable/Issuing Association - IMA(Kochi Chapter)**
 
@@ -43,7 +43,7 @@ This initiative can work around a number of use cases under a particular jurisdi
 
    With KochiOrgBook, doctors will be issued a digital identity about who they are and what their qualification is and a normal citizen can access these informations from their fingertips. With this, an individual can make the best decisions on time and with ease.
 
-2. Lawyers
+2. ### Lawyers
    
    **Verifiable/Issuing Association - Bar Council of India(Kochi High Court Chapter)**
 
@@ -51,7 +51,7 @@ This initiative can work around a number of use cases under a particular jurisdi
 
    This use case is focused on enabling a citizen of the city of Kochi to verify that the Lawyer is qualified to handle or offer legal consultation on specific types of cases in a most efficient and trustworthy manner.
 
-3. Driving License​
+3. ### Driving License​
    
    **Verifiable/Issuing Association - Regional Transport Office(Kochi)**
 
@@ -59,7 +59,7 @@ This initiative can work around a number of use cases under a particular jurisdi
 
    This use case is focused on enabling a citizen to present digital proofs to take up driving license test leveraging capabilities of [verifiable credentials](https://github.com/hyperledgerkochi/KochiOrgBook/blob/master/Glossary.md#toip--trust-over-ip-foundation) and increase efficiency of the process.
 
-4. Verification services to provide specific digital identities
+4.  ### Verification services to provide specific digital identities
    
    **Services - Email verification service, Phone number verification service, Address verification service**
    
@@ -67,7 +67,7 @@ This initiative can work around a number of use cases under a particular jurisdi
 
    This use case is focused on providing individual with basic verification services like Email verification service, Phone number verification service etc. With this each user can prove their ownership over their informations like email-id/phone number and they will be provided with a DID for these information which can be stored in a digital wallet app. 
 
-5. Creating student credentials for applying admission to external Universities
+5. ###  Creating student credentials for applying admission to external Universities
 
    **Verifiable/Issuing Association - Universities and Educational Institutions (Kochi)**
    
@@ -75,7 +75,7 @@ This initiative can work around a number of use cases under a particular jurisdi
 
    This use case is focused on enabling a student to collect all required digital credentials /proofs and submit them in a timely manner leveraging a workflow which offers transparency, enhance efficiency, and reduces cost to apply for admissions.
 
-6. University issued digital credential
+6. ###  University issued digital credential
    
    **Verifiable/Issuing Association - Universities and Educational Institutions (Kochi)**
 
