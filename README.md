@@ -10,6 +10,10 @@
    4. Verification services to provide specific digital identities
    5. Creating student credentials for applying admission to external Universities
    6. University issued digital credential
+3. Generic Use Cases
+4. KochiOrgBook – Community project initiative for the City of Kochi​
+5. KochiOrgBook sub projects​
+6. Community groups
 
 ## Overview
 
@@ -26,6 +30,8 @@ takes time and a lot of effort.
 This utility aims to cut down the red tape and improve the overall efficiency of the current processes.
 
 ## Key Use Cases 
+
+This initiative can work around a number of use cases under a particular jurisdiction. A few of the key use cases are listed below.
 
 ![Key Use Cases](images/kob_key_use_cases.png)
 
@@ -75,11 +81,24 @@ This utility aims to cut down the red tape and improve the overall efficiency of
 
    In this use case, a student under a particular university will be issued a DID proving him/her a valid student under the university. By leveraging this DID, he/she can work through the university related processes with ease.
 
+## Generic Use Cases
+
+![KOB Generic Use Cases](images/kob_generic_use_case.png)
 
    
+## KochiOrgBook – Community project initiative for the City of Kochi​
+
+![KOB Community initiative](images/kob_community_initiative.png)
 
 
+## KochiOrgBook sub projects​
 
+![KOB sub projects](images/kob_sub_projects.png)
+
+
+## Community groups
+
+![kob community groups](images/kob_community_groups.png)
 
 
    
