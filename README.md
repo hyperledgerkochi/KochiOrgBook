@@ -59,7 +59,7 @@ This initiative can work around a number of use cases under a particular jurisdi
 
    This use case is focused on enabling a citizen to present digital proofs to take up driving license test leveraging capabilities of [verifiable credentials](https://github.com/hyperledgerkochi/KochiOrgBook/blob/master/Glossary.md#toip--trust-over-ip-foundation) and increase efficiency of the process.
 
-4.  ### Verification services to provide specific digital identities
+4. ### Verification services to provide specific digital identities
    
    **Services - Email verification service, Phone number verification service, Address verification service**
    
