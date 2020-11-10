@@ -27,7 +27,7 @@ This utility aims to cut down the red tape and improve the overall efficiency of
 
 ## Key Use Cases 
 
-[Key Use Cases](images/kob_key_use_cases.png)
+![Key Use Cases](images/kob_key_use_cases.png)
 
 1. Medical Practitioners
    
