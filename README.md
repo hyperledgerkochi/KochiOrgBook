@@ -67,7 +67,7 @@ This initiative can work around a number of use cases under a particular jurisdi
 
    This use case is focused on providing individual with basic verification services like Email verification service, Phone number verification service etc. With this each user can prove their ownership over their informations like email-id/phone number and they will be provided with a DID for these information which can be stored in a digital wallet app. 
 
-5. ###  Creating student credentials for applying admission to external Universities
+5. ### Creating student credentials for applying admission to external Universities
 
    **Verifiable/Issuing Association - Universities and Educational Institutions (Kochi)**
    
@@ -75,7 +75,7 @@ This initiative can work around a number of use cases under a particular jurisdi
 
    This use case is focused on enabling a student to collect all required digital credentials /proofs and submit them in a timely manner leveraging a workflow which offers transparency, enhance efficiency, and reduces cost to apply for admissions.
 
-6. ###  University issued digital credential
+6. ### University issued digital credential
    
    **Verifiable/Issuing Association - Universities and Educational Institutions (Kochi)**
 
