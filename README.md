@@ -10,10 +10,10 @@
    4. Verification services to provide specific digital identities
    5. Creating student credentials for applying admission to external Universities
    6. University issued digital credential
-3. Generic Use Cases
-4. KochiOrgBook – Community project initiative for the City of Kochi​
-5. KochiOrgBook sub projects​
-6. Community groups
+3. [Generic Use Cases](https://github.com/asa1997/KochiOrgBook#generic-use-cases)
+4. [KochiOrgBook – Community project initiative for the City of Kochi​](https://github.com/asa1997/KochiOrgBook#kochiorgbook--community-project-initiative-for-the-city-of-kochi)
+5. [KochiOrgBook sub projects​](https://github.com/asa1997/KochiOrgBook#kochiorgbook-sub-projects)
+6. [Community groups](https://github.com/asa1997/KochiOrgBook#community-groups)
 
 ## Overview
 
