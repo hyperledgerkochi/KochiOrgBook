@@ -94,7 +94,7 @@ This initiative can work around a number of use cases under a particular jurisdi
 ## KochiOrgBook sub projects​
 
 ![KOB sub projects](images/kob_sub_projects.png)
-
+ TODO : Add One line description and link to sub projets.
 
 ## Community groups
 
