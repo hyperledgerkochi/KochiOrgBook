@@ -98,6 +98,8 @@ This initiative can work around a number of use cases under a particular jurisdi
 
 ## Community groups
 
+TODO move to how to contribute to KOB 
+
 ![kob community groups](images/kob_community_groups.png)
 
 
