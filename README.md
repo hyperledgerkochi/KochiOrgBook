@@ -1,4 +1,4 @@
-# KochiOrgBook
+# KochiOrgBook(KOB)
 
 ## Table of Contents
 
@@ -17,9 +17,9 @@
 
 ## Overview
 
-KochiOrgBook is a **Verifiable Organization Network** for the city of Kochi. It is a technology demonstrator to launch a [DID](https://github.com/hyperledgerkochi/KochiOrgBook/blob/master/Glossary.md#did--decentralized-identifier) based utility compliant with the [ToIP](https://github.com/hyperledgerkochi/KochiOrgBook/blob/master/Glossary.md#toip--trust-over-ip-foundation) standards to enable Trusted digital verification service for various association within the city of Kochi.​
+KochiOrgBook is a **Verifiable Organization Network**(VON) for the city of Kochi. It is a technology demonstrator to launch a [DID](https://github.com/hyperledgerkochi/KochiOrgBook/blob/master/Glossary.md#did--decentralized-identifier) based public utility compliant with the [ToIP](https://github.com/hyperledgerkochi/KochiOrgBook/blob/master/Glossary.md#toip--trust-over-ip-foundation) standards to enable Trusted digital verification service for various association within the city of Kochi.​
 
-The objective of this initiative was to enable business entities to avail permits or licenses from Government in a transparent and efficient manner and in the current form it may not be feasible for an ordinary citizen to confirm if these association are valid or not due to chance of forgery of documents and we often trust the documents they present making it quite easy to misguide anyone.
+The objective of this initiative is to enable any Association having it's present in the city of Kochi to registe on the KOB VON Network to issue digital proofs and host a verifiable credential registry(VCR) in a transparent and cost efficient manner. In the current form it may not be feasible for an ordinary citizen to confirm if these association are valid or not due to chance of forgery of documents and we often trust the documents they present making it quite easy to misguide anyone.
 
 With KochiOrgBook each association will now be able to present cryptographically encrypted digital credential which has been issued to them from a trusted entity and can 
 be verified by any citizen of Kochi using their mobile [wallet app](https://github.com/hyperledgerkochi/KochiOrgBook/blob/master/Glossary.md#toip--trust-over-ip-foundation).
@@ -43,9 +43,11 @@ This utility aims to cut down the red tape and improve the overall efficiency of
 ## KochiOrgBook sub projects​
 
 ![KOB sub projects](images/kob_sub_projects.png)
-
+ TODO : Add One line description and link to sub projets.
 
 ## Community groups
+
+TODO move to how to contribute to KOB 
 
 ![kob community groups](images/kob_community_groups.png)
 
