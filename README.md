@@ -29,27 +29,13 @@ takes time and a lot of effort.
 
 This utility aims to cut down the red tape and improve the overall efficiency of the current processes.
 
-
-## Generic Use Cases
-
-![KOB Generic Use Cases](images/kob_generic_use_case.png)
-
-   
-## KochiOrgBook – Community project initiative for the City of Kochi​
-
-![KOB Community initiative](images/kob_community_initiative.png)
+  
 
 
-## KochiOrgBook sub projects​
 
-![KOB sub projects](images/kob_sub_projects.png)
- TODO : Add One line description and link to sub projets.
 
-## Community groups
 
-TODO move to how to contribute to KOB 
 
-![kob community groups](images/kob_community_groups.png)
 
 
    

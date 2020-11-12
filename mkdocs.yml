@@ -1,0 +1,18 @@
+site_name: KochiOrgBook
+theme:
+  name: 'material'
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - 'Overview': 'index.md'
+  - 'Mission': 'index.md'
+  - 'Use Cases': 
+    - 'Key Use Cases': 'key_use_cases.md'
+    - 'Generic Use Cases': 'generic_use_cases.md'
+  - 'KochiOrgBook – Community project initiative for the City of Kochi​': 'community_initiative.md'
+  - 'KochiOrgBook Sub Projects​': 'sub_projects.md'
+  - 'How to Contribute': 'how to contribute.md'
+  - 'Glossary': 'glossary.md'
+
+
