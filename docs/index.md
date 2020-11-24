@@ -1,6 +1,6 @@
 # Overview
 
-KochiOrgBook is a **Verifiable Organization Network**(VON) for the city of Kochi. It is a technology demonstrator to launch a [DID](./glossary.md/#did--decentralized-identifier) based public utility compliant with the [ToIP](./glossary.md/#toip--trust-over-ip-foundation) standards to enable Trusted digital verification service for various association within the city of Kochi.​
+KochiOrgBook is a **Verifiable Organization Network**(VON) for the city of Kochi. It is a technology demonstrator to launch a [DID](./glossary.md/#did--decentralized-identifier) based public utility compliant with the [ToIP](./glossary.md) standards to enable Trusted digital verification service for various association within the city of Kochi.​
 
 The objective of this initiative is to enable any Association having it's presence in the city of Kochi to register on the KOB VON Network to issue digital proofs and host a verifiable credential registry(VCR) in a transparent and cost efficient manner. 
 
