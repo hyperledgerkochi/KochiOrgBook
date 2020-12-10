@@ -103,10 +103,16 @@ Building on URI Standards, the DID Specification allows for both root namespace 
 
 A computer network server running an instance of the code necessary to operate a distributed ledger or blockchain. 
 
+***
+
 ## Browser wars
 
 A browser war is competition for dominance in the usage share of web browsers. With the introduction of HTML5 and CSS 3, a new generation of browser war began, this time adding extensive client-side scripting to the World Wide Web, as well as more widespread use of smartphones and other mobile devices for browsing the web. These newcomers have ensured that browser battles continue among enthusiasts, while the average web user is less affected.
 
+***
 
+## Credential Registry
+
+The Credential Registry is a cloud-based library that collects, maintains, and connects information on all types of credentials
 
 
