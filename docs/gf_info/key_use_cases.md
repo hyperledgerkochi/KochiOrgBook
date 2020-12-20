@@ -2,7 +2,7 @@
 
 This initiative can work around a number of use cases under a particular jurisdiction. A few of the key use cases are listed below.
 
-![Key Use Cases](img/kob_key_use_cases.png)
+![Key Use Cases](../img/kob_key_use_cases.png)
 
 ## Medical Practitioners
    

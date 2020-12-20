@@ -1,6 +1,6 @@
 # KochiOrgBook Sub Projects​
 
-![KOB sub projects](img/kob_sub_projects.png)
+![KOB sub projects](../img/kob_sub_projects.png)
 
 ## KochiOrgBook
 
