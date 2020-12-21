@@ -16,6 +16,7 @@ nav:
     - 'How to Contribute': 'gf_info/how to contribute.md'
     - 'Consortium': 'gf_info/consortium.md'
   - Constitutional:
+    - 'Master Document': 'gf_info/master_doc.md'
     - Controlled:
       - 'Glossary': 'gf_controlled/glossary.md'
       - Legal:
