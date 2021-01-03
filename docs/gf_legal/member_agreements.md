@@ -1,7 +1,8 @@
 
-## Stewards
+Members are required to enter into contractual agreements with the KochiOrgBook Consortium.
 
-All Stewards must sign these agreements
+## **Stewards**
 
-- [Steward Agreement(docx)](contracts/dev/KOBPIU-Steward-Agreement.docx)
-
+- [KOBPIU Steward Agreement](contracts/steward_agreement.md)
+- [Transaction Author Agreement](contracts/trans_auth_agreement.md)
+- [Transaction Endorser Agreement](contracts/trans_endorser_agreement.md)

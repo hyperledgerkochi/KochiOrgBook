@@ -20,7 +20,10 @@ nav:
     - Controlled:
       - 'Glossary': 'gf_controlled/glossary.md'
       - Legal:
-        - 'Member Agreements': 'gf_legal/member_agreements.md'
+        - Member Agreements: 'gf_legal/member_agreements.md'
+      - Compliance:
+        - 'Trust Assurance': 'gf_assurance/trust_assurance.md'
+        
 
 
   
