@@ -280,16 +280,13 @@ In keeping with the Guardianship principle, a Guardian SHOULD:
 In keeping with the Inclusive by Design principles:
   
   1. Access to the KOBPIU Network MUST be open to all Individuals and Organizations on a comparable basis without intentional exclusion of specific persons or communities.
-  2. Developers SHOULD design for different capabilities in different contexts considering:
    
+  2. Developers SHOULD design for different capabilities in different contexts considering:
+ 
     a. Digital Exclusion (e.g., access to connected devices)
-
     b. Physical or Cognitive Exclusion (e.g., disability or incapacity)
-
     c. Political & Social Status (e.g., stateless individuals; being a child or a woman)
-
     d. Financial Status (e.g., having no income)
-
     e. Literacy & Language (e.g., low literacy or not speaking local language)
 
 #### **3.4 Trust Assurance**
