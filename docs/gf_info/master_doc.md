@@ -88,7 +88,8 @@ The KOB Consortia shall act in the collective best interests of all Identity Own
 KOBPIU Infrastructure shall be [decentralized](https://en.wikipedia.org/wiki/Decentralization) to the greatest extent possible consistent with the other principles herein. As the business, legal, and technical limitations of decentralization may change over time, the KOB Consortia shall continuously examine all points of control, decision, and governance to seek ongoing conformance with this principle.
 
 ##### 2.8.2 Diffuse Trust
-KOBPIU Infrastructure shall not concentrate power in any single Individual, Organization, Jurisdiction(**check again**), Industry Sector, or other special interest to the detriment of the Network as a whole. Diffuse Trust shall take into account all forms of diversity among Identity Owners.
+
+KOBPIU Infrastructure shall not concentrate power in any single Individual, Organization, Jurisdiction, Industry Sector, or other special interest to the detriment of the Network as a whole. Diffuse Trust shall take into account all forms of diversity among Identity Owners.
 
 ##### 2.8.3 Web of Trust
 
@@ -126,7 +127,7 @@ The design, governance, and operation of KOBPIU Infrastructure shall follow the 
 
 ##### 2.9.2 Identity for All
 
-Consistent with the United Nations Sustainable Development Goal 16.9 **(Check again)**, the KOB Consortia and the KOBPIU Network shall promote peaceful and inclusive societies for sustainable development; enable access to justice for all; and facilitate effective, accountable, and inclusive institutions at all levels by being accessible to, and inclusive of all Identity Owners without discrimination and with accommodation for physical, economic, or other limitations of Identity Owners to the greatest extent feasible.
+Consistent with the [United Nations Sustainable Development Goal 16.9](https://sdgs.un.org/goals/goal16) , the KOB Consortia and the KOBPIU Network shall promote peaceful and inclusive societies for sustainable development; enable access to justice for all; and facilitate effective, accountable, and inclusive institutions at all levels by being accessible to, and inclusive of all Identity Owners without discrimination and with accommodation for physical, economic, or other limitations of Identity Owners to the greatest extent feasible.
 
 ##### 2.9.3 People-Centered Design
 
@@ -164,11 +165,11 @@ The design, governance, and operation of KOBPIU Infrastructure shall follow the 
 
 ##### 2.10.2 Pairwise Pseudonyms by Default
 
-Agents using the KOBPIU Protocol **(Check again)** shall default to assigning Pairwise Pseudonyms, Pairwise Public Keys, and, when necessary, Pairwise Service Endpoints whenever forming a Connection unless specifically directed otherwise by an Identity Owner.
+Agents using the KOBPIU Protocol  shall default to assigning Pairwise Pseudonyms, Pairwise Public Keys, and, when necessary, Pairwise Service Endpoints whenever forming a Connection unless specifically directed otherwise by an Identity Owner.
 
 ##### 2.10.3 Selective Disclosure by Default
 
-Issuers, Holders, and Verifiers using the KOBPIU Protocol **(Check again)** shall default to issuing, holding, and accepting Credentials that support Zero-Knowledge Proofs and privacy-respecting Revocation Registries by default.
+Issuers, Holders, and Verifiers using the KOBPIU Protocol  shall default to issuing, holding, and accepting Credentials that support Zero-Knowledge Proofs and privacy-respecting Revocation Registries by default.
 
 ##### 2.10.4 Governance Framework Disclosure by Default
 
@@ -255,7 +256,7 @@ Personal data must be processed in a manner that provides appropriate security o
 In keeping with all Core Principles and especially the Decentralization by Design and Security by Design principles:
   
   1. Policies, practices, procedures, and algorithms governing participation of Stewards and operation of Nodes MUST follow all Core Principles.
-  2. The KOB Consortia MUST publish the following Controlled Documents managed as specified by KOB Consortia **(Check again)**:
+  2. The KOB Consortia MUST publish the following Controlled Documents managed as specified by KOB Consortia :
    
     a. KOBPIU Steward Business Policies
    
@@ -297,7 +298,7 @@ In keeping with all Core Principles and especially the Decentralization by Desig
 
   1. The KOB Consortia MUST specify policies, practices, and procedures for assessing conformance to the KOBPIU Governance Framework by publishing and maintaining the
   KOBPIU Trust Assurance Framework as a Controlled Document managed as specified by KOBPIU Governing Bodies.
-  2. The KOBPIU Governance Framework MUST be designed to provide a foundation for Domain-Specific Governance Frameworks (DSGFs) based on the KOBPIU Web of TrustModel. **(Check again)**
+  2. The KOBPIU Governance Framework MUST be designed to provide a foundation for Domain-Specific Governance Frameworks (DSGFs) based on the KOBPIU Web of TrustModel. 
   3. As soon as feasible, the KOBPIU Foundation MUST publish a DSGF, the KOBPIU Web of Trust Governance Framework, whose purpose is to enable decentralized discovery,navigation, and verification of DSGFs.
   4. The KOBPIU Foundation MUST publish the KOBPIU Trust Mark Policies as a Controlled Document managed as specified by KOBPIU Governing Bodies.
   5. An Entity serving in one of the KOBPIU Infrastructure Roles who meets the requirements in the KOBPIU Trust Assurance Framework MAY use the appropriate KOBPIU Trust Mark as specified in KOBPIU Trust Mark Policies.
@@ -342,7 +343,7 @@ These policies apply to any normative revision to the Controlled Documents liste
 
 1. The list of Controlled Documents in Appendix A, as well as each Controlled Document on that list, MAY be revised independently from the KOBPIU Governance Framework
 Master Document (the present document).
-2. A Controlled Document MUST be stored in and use the change control mechanisms established by the official KOBPIU Code Repository **(Check again)** at the permanent location for the document published in Appendix A.
+2. A Controlled Document MUST be stored in and use the change control mechanisms established by the official KOBPIU Code Repository  at the permanent location for the document published in Appendix A.
 3. Proposed revisions MUST be subject to a minimum 30 day public review period publicly announced by the KOBPIU Foundation.
 4. Revisions to a Controlled Document MUST be approved by the KOBPIU Board of Trustees after the conclusion of the public review period and before the revision takes effect.
 
