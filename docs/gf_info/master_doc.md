@@ -256,12 +256,9 @@ Personal data must be processed in a manner that provides appropriate security o
 In keeping with all Core Principles and especially the Decentralization by Design and Security by Design principles:
   
   1. Policies, practices, procedures, and algorithms governing participation of Stewards and operation of Nodes MUST follow all Core Principles.
-  2. The KOB Consortia MUST publish the following Controlled Documents managed as specified by KOB Consortia :
-   
-    a. KOBPIU Steward Business Policies
-   
-    b. KOBPIU Steward Technical Policies.
-   
+  2. The KOB Consortia MUST publish the following Controlled Documents managed as specified by KOB Consortia :   
+    a. KOBPIU Steward Business Policies    
+    b. KOBPIU Steward Technical Policies.</br>
     c. KOBPIU Ledger Access Policies.
 
 #### **3.2 Guardianship**
@@ -282,15 +279,11 @@ In keeping with the Inclusive by Design principles:
   1. Access to the KOBPIU Network MUST be open to all Individuals and Organizations on a comparable basis without intentional exclusion of specific persons or communities.
    
   2. Developers SHOULD design for different capabilities in different contexts considering: </br> 
-    a. Digital Exclusion (e.g., access to connected devices)
-
-    b. Physical or Cognitive Exclusion (e.g., disability or incapacity)
-    
-    c. Political & Social Status (e.g., stateless individuals; being a child or a woman)
-    
-    d. Financial Status (e.g., having no income)
-    
-    e. Literacy & Language (e.g., low literacy or not speaking local language)
+    a. Digital Exclusion (e.g., access to connected devices)</br> 
+    b. Physical or Cognitive Exclusion (e.g., disability or incapacity)</br> 
+    c. Political & Social Status (e.g., stateless individuals; being a child or a woman)</br> 
+    d. Financial Status (e.g., having no income)</br> 
+    e. Literacy & Language (e.g., low literacy or not speaking local language)</br> 
 
 #### **3.4 Trust Assurance**
 
