@@ -1,3 +1,4 @@
+## KOB Address Verification Service
 - A user uses this service to get a digital domicile credential which proves
 their domicile.
 - Credential represents certificates given to people by an issuing authority
