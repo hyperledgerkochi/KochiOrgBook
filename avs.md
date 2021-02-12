@@ -18,8 +18,7 @@ some needs.
 - In the current situation, a digitally signed certificate is downloaded and obtained as a printout. It doesnot contain any seals or watermarks.
 - Solution: Digital credentials which are protected cryptographically. 
 3. Problem 3: Issue of paper credentials depend on the experience and expertise of issuer (Ration card
-Address proof – passport, voter card, ration card, electricity bill, water bill, telephone bill
-House tax receipt, Birth Certificate or SSLC certificate, Identity Proof are the documents to be cross checked and is time consuming(Average time required is 2-3 days).
+Address proof – passport, voter card, ration card, electricity bill, water bill, telephone bill, house tax receipt, birth Certificate or SSLC certificate, identity Proof are the documents to be cross checked) and is time consuming (Average time required is 2-3 days).
 - Solution: Digital credentials are proven by using crypto calculations and saves time.
 4. Problem 4: Inaccessibility issues:
 - Solution: Globally accessible verifiable credentials.
