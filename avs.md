@@ -7,7 +7,7 @@ their domicile. It is useful in a situation when the user has to prove his/her d
 some needs.
 - A domicile credential is a proven claim that a particular person reside in a specific area, issued by an authority.
 - The domicile credential, driving license and similar documents are currently printed on paper - paper credentials stored in a user's wallets.
-- By bringing the concept of digital verifiable credentials to picture, paper credntials are replaced by digital certificates.
+- By bringing the concept of digital verifiable credentials to picture, paper credentials are replaced by digital certificates.
 - These digital credentials are stored in digital wallets which is an android application which act as a data store on cloud.
 ## How are digital credentials better ?
 
