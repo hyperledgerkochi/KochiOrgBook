@@ -15,7 +15,7 @@ some needs.
 - Can revoke documents at any time or an attack can destroy all data.
 - Solution: DID gives power back to individuals and a documents on Blockchain cannot be deleted.
 2. Problem 2: Paper Credentials are easy to forge: 
-- In the current situation, a digitally signed certificate is downloaded and obtained as a printout. It doesnot contain any seals or watermarks.
+- In the current situation, a digitally signed certificate is downloaded and obtained as a printout.
 - Solution: Digital credentials which are protected cryptographically. 
 3. Problem 3: Issue of paper credentials depend on the experience and expertise of issuer (Ration card
 Address proof – passport, voter card, ration card, electricity bill, water bill, telephone bill, house tax receipt, birth Certificate or SSLC certificate, identity Proof are the documents to be cross checked) and is time consuming (Average time required is 2-3 days).
