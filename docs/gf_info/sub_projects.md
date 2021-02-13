@@ -1,14 +1,11 @@
 # KochiOrgBook Sub Projects​
 
-![KOB sub projects](../img/kob_sub_projects.png)
-
-## KochiOrgBook
+## KochiOrgBook Association Wallet (KOBAW)
 
 KochiOrgBook is an instance of OrgBook. It is a [Credential Registry](./glossary.md#credential-registry) of verifiable credentials about entities under a specific jurisdiction. It provides a website for a user to search for registered entities. It is the enterprise wallet.
 
 [Link to repo](https://github.com/hyperledgerkochi/KochiOrgBook)
 ***
-
 
 ## KOBConnect
 
@@ -17,15 +14,12 @@ KOBConnect is the digital wallet application. The users can use it to store cred
 [Link to repo](https://github.com/hyperledgerkochi/KOBConnect)
 ***
 
-
-
 ## KOBRegistry
 
 Verifiable Credential Registry(VCR) is going to reside in the KOBRegistry.​ It is going to mediate the creation and verification of issuer identifiers, keys and other relevant data like verifiable credential schemas and revocation registries.​
 
 [Link to repo](https://github.com/hyperledgerkochi/KOBRegistry)
 ***
-
 
 ## KOBDflow
 
@@ -34,7 +28,6 @@ It is the decentralized workflow application for KOB. It provides a mechanism to
 [Link to repo](https://github.com/hyperledgerkochi/KOBDflow)
 ***
 
-
 ## KOBman
 
 KOBman utility helps one to create a development environment with ease. KOBman provides each environment bundled with their dependencies so that programmers can focus on their development work.
@@ -42,11 +35,9 @@ KOBman utility helps one to create a development environment with ease. KOBman p
 [Link to repo](https://github.com/hyperledgerkochi/KOBman)
 ***
 
-
 ## KOBVON
 
 It is the Verifiable Organisations Network for the city of Kochi. It helps to establish a better way to find, issue, store and share trustworthy data about organizations.​
-
 
 [Link to repo](https://github.com/hyperledgerkochi/KOBVON)
 ***
@@ -70,7 +61,13 @@ A user can avail this service to get a digital credential proving their domicile
 Users can avail this service to get a digital credential proving the ownership of their email-id. This credential helps the users to prove that the email-id is being controlled by the user and no one else. This can be used when you provide your email-id to avail services. The credential will be stored in the user's wallet application and the user will have complete control over the credential.
 
 [Link to repo](https://github.com/hyperledgerkochi/KOB-email-verification)
+***
 
+## KochiOrgBook Public Identity Utility (KOBPIU)
+
+KochiOrgBook Public Identity Utility is the underlying identity network. All the DIDs will be hosted upon the identity network. The identity utility network is similar to that of Sovrin network. The difference is that, KOBPIU is focused for the city of Kochi. KOBPIU maps to the ToIP Technical Stack Layer 1.
+
+[Link to repo](https://github.com/hyperledgerkochi/KOBPIU)
 
 
 
