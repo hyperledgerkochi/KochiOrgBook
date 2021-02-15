@@ -61,6 +61,7 @@ A user can avail this service to get a digital credential proving their domicile
 Users can avail this service to get a digital credential proving the ownership of their email-id. This credential helps the users to prove that the email-id is being controlled by the user and no one else. This can be used when you provide your email-id to avail services. The credential will be stored in the user's wallet application and the user will have complete control over the credential.
 
 [Link to repo](https://github.com/hyperledgerkochi/KOB-email-verification)
+
 ***
 
 ## KochiOrgBook Public Identity Utility (KOBPIU)
