@@ -2,7 +2,7 @@
 
 ## KochiOrgBook Association Wallet (KOBAW)
 
-KochiOrgBook is an instance of OrgBook. It is a [Credential Registry](./glossary.md#credential-registry) of verifiable credentials about entities under a specific jurisdiction. It provides a website for a user to search for registered entities. It is the enterprise wallet.
+KochiOrgBook is an instance of OrgBook. It is a [Credential Registry](./glossary.md#credential-registry) where VCs of associations under a particular jurisidction are stored in a decentralised manner. It is also referred to as the association wallet. It comes with a front end where user's can search for the registered associations or about a particular credential.
 
 [Link to repo](https://github.com/hyperledgerkochi/KochiOrgBook)
 ***
@@ -23,7 +23,7 @@ Verifiable Credential Registry(VCR) is going to reside in the KOBRegistry.​ It
 
 ## KOBDflow
 
-It is the decentralized workflow application for KOB. It provides a mechanism to consume various services available.
+It is the decentralized workflow application for KOB. It provides a mechanism to consume various services available. It gives the user's a pictorial view on how a particular credential can be achieved.
 
 [Link to repo](https://github.com/hyperledgerkochi/KOBDflow)
 ***
