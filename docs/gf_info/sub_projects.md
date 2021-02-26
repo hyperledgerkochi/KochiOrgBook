@@ -70,5 +70,10 @@ KochiOrgBook Public Identity Utility is the underlying identity network. All the
 
 [Link to repo](https://github.com/hyperledgerkochi/KOBPIU)
 
+## KochiOrgBook Community Cloud (KOBCC)
+
+KOBCC is a cloud platform where any association within the city of Kochi, who does not have the necessary infrastructure to host a node, can avail the same service from a third-party who is registered with the KochiOrgBook.
+
+[Link to repo](https://github.com/hyperledgerkochi/KOBCC)
 
 
