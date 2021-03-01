@@ -1,6 +1,8 @@
 # Overview
 
-KochiOrgBook(KOB) is a [Digital Trust Ecosystem](./gf_controlled/glossary.md#digital-trust-ecosystem) project for the city of Kochi. KOB includes a decentralised identity based [Public Identity Utiltity(KOBPIU)](gf_info/sub_projects.md#kochiorgbook-public-identity-utility-kobpiu) network, a [Verifiable Organisations Network(KOBVON)](gf_info/sub_projects.md#kobvon) for the association, an [Association Wallet(KOBAW)](./gf_info/sub_projects.md#kochiorgbook-association-wallet-kobaw), a [Citizen Mobile Wallet application(KOBConnect)](gf_info/sub_projects.md#kobconnect) and a [Community Cloud(KOBCC)](gf_info/sub_projects.md#kochiorgbook-community-cloud-kobcc). 
+KochiOrgBook(KOB) is a [Digital Trust Ecosystem](./gf_controlled/glossary.md#digital-trust-ecosystem) project for the city of Kochi. 
+
+KOB includes a [Decentralised Identity based](gf_controlled/glossary.md#did--decentralized-identifier) [Public Identity Utiltity(KOBPIU)](gf_info/sub_projects.md#kochiorgbook-public-identity-utility-kobpiu) network, a [Verifiable Organisations Network(KOBVON)](gf_info/sub_projects.md#kobvon) for the associations, an [Association Wallet(KOBAW)](./gf_info/sub_projects.md#kochiorgbook-association-wallet-kobaw), a [Citizen Mobile Wallet application(KOBConnect)](gf_info/sub_projects.md#kobconnect) and a [Community Cloud(KOBCC)](gf_info/sub_projects.md#kochiorgbook-community-cloud-kobcc). 
 
 The objective of this initiative is to enable any Association having it's presence in the city of Kochi to register on the [KOBVON](gf_info/sub_projects.md#kobvon) Network to issue digital proofs and host a verifiable credential registry(VCR) in a transparent and cost efficient manner. 
 
