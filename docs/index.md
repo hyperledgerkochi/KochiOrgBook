@@ -2,7 +2,7 @@
 
 **KochiOrgBook(KOB)** is a Digital Trust ecosystem project for the city of Kochi. 
 
-KOB ecosystem projects includes Decentralized Identity(DID) based **Public Identiy Utility** (KOB -PIU) , A **Verifiable Organizations Network**(VON) for Associations in Kochi, Association Wallet Application (KOB-AW), DID based Mobile Wallet for Citizens(KOB-Connect) and a community cloud (KOB CC). 
+The digital trust ecosystem includes a Decentralized Identity(DID) based **Public Identiy Utility** (KOB -PIU) , A **Verifiable Organizations Network**(VON) for Associations in Kochi, Association Wallet Application (KOB-AW), DID based Mobile Wallet for Citizens(KOB-Connect) and a community cloud (KOB CC). 
 
 KOB is a technology demonstrator to launch a [DID](./glossary.md#did--decentralized-identifier) based public utility compliant with the [ToIP](./glossary.md#toip--trust-over-ip-foundation) standards to enable Trusted digital verification service for various association within the city of Kochi.​
 
