@@ -1,16 +1,14 @@
 # Overview
 
-KochiOrgBook is a **Verifiable Organization Network**(VON) for the city of Kochi. It is a technology demonstrator to launch a [DID](./glossary.md#did--decentralized-identifier) based public utility compliant with the [ToIP](./glossary.md#toip--trust-over-ip-foundation) standards to enable Trusted digital verification service for various association within the city of Kochi.​
+KochiOrgBook(KOB) is a [Digital Trust Ecosystem](./gf_controlled/glossary.md#digital-trust-ecosystem) project for the city of Kochi. KOB includes a decentralised identity based [Public Identity Utiltity(KOBPIU)](gf_info/sub_projects.md#kochiorgbook-public-identity-utility-kobpiu) network, a [Verifiable Organisations Network(KOBVON)](gf_info/sub_projects.md#kobvon) for the association, an [Association Wallet(KOBAW)](./gf_info/sub_projects.md#kochiorgbook-association-wallet-kobaw), a [Citizen Mobile Wallet application(KOBConnect)](gf_info/sub_projects.md#kobconnect) and a [Community Cloud(KOBCC)](gf_info/sub_projects.md#kochiorgbook-community-cloud-kobcc). 
 
-The objective of this initiative is to enable any Association having it's presence in the city of Kochi to register on the KOB VON Network to issue digital proofs and host a verifiable credential registry(VCR) in a transparent and cost efficient manner. 
+The objective of this initiative is to enable any Association having it's presence in the city of Kochi to register on the [KOBVON](gf_info/sub_projects.md#kobvon) Network to issue digital proofs and host a verifiable credential registry(VCR) in a transparent and cost efficient manner. 
 
 In the current form it may not be feasible for an ordinary citizen to confirm if these association are valid or not due to chance of forgery of documents and we often trust the documents they present making it quite easy to misguide anyone.
 
-With KochiOrgBook each association will now be able to present cryptographically encrypted digital credentials which has been issued to them from a trusted entity and can 
-be verified by any citizen of Kochi using their mobile [wallet app](./glossary.md#agents-and-wallets).
+With KochiOrgBook each association will now be able to present cryptographically encrypted digital credentials which has been issued to them from a trusted entity and can be verified by any citizen of Kochi using their mobile [wallet app](./glossary.md#agents-and-wallets).
 
-In the current sceanrio, for a citizen to avail any service or to prove their eligibility or identity, they have to provide a number of documents. Often the whole process 
-takes time and a lot of effort.
+In the current sceanrio, for a citizen to avail any service or to prove their eligibility or identity, they have to provide a number of documents. Often the whole process takes time and a lot of effort.
 
 This utility aims to cut down the red tape and improve the overall efficiency of the current processes.
 
