@@ -77,3 +77,12 @@ KOBCC is a cloud platform where any association within the city of Kochi, who do
 [Link to repo](https://github.com/hyperledgerkochi/KOBCC)
 
 
+## KOBSearch
+
+KOBSearch is a search service for KochiOrgBook. Any user registered with KOB can avail this service and search for Associations registered in KOB, any credential, a public DID and can also search for entities within any association with necessary permissions.
+
+The search can be done at three level,
+
+1. Ledger Level - A user can search for a public DID.
+2. Wallet Level - A user can search for any Associations registered with KOB.
+3. VCR Level - A user with necessary permissions can search at the Association's VCR for entities registered with that Association.
