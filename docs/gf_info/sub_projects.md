@@ -4,7 +4,7 @@
 
 KochiOrgBook is an instance of OrgBook. It is a [Credential Registry](./glossary.md#credential-registry) where VCs of associations under a particular jurisidction are stored in a decentralised manner. It is also referred to as the association wallet. It comes with a front end where user's can search for the registered associations or about a particular credential.
 
-[Link to repo](https://github.com/hyperledgerkochi/KochiOrgBook)
+[Link to repo](https://github.com/hyperledgerkochi/KOBAW)
 ***
 
 ## KOBConnect
@@ -86,3 +86,5 @@ The search can be done at three level,
 1. Ledger Level - A user can search for a public DID.
 2. Wallet Level - A user can search for any Associations registered with KOB.
 3. VCR Level - A user with necessary permissions can search at the Association's VCR for entities registered with that Association.
+
+[Link to repo](https://github.com/hyperledgerkochi/KOBSearch)
