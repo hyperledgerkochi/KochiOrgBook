@@ -7,7 +7,7 @@ An underlying blockchain network for the city of Kochi upon which all the other 
 
 [Issues](https://github.com/hyperledgerkochi/KOBPIU/issues)
 
-[GitHub page](to be added )
+[GitHub page](https://hyperledgerkochi.github.io/KOBPIU/)
 
 ### Contributor's Profile
 

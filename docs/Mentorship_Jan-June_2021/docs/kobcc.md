@@ -6,7 +6,7 @@ A community cloud focused on the associations of Kochi who doesn’t have the ne
 
 [Issues](https://github.com/hyperledgerkochi/KOBCC/issues)
 
-[GitHub page](to be added )
+[GitHub page](https://hyperledgerkochi.github.io/KOBCC/)
 
 ### Contributor's Profile
 

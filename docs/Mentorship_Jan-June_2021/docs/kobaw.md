@@ -6,7 +6,7 @@ A decentralized wallet application where in which the credentials of registered 
 
 [Issues](https://github.com/hyperledgerkochi/KOBAW/issues)
 
-[GitHub page](to be added )
+[GitHub page](https://hyperledgerkochi.github.io/KOBAW/)
 
 ### Contributor's Profile
 
