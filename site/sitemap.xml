@@ -1,54 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>None</loc>
-     <lastmod>2021-05-03</lastmod>
-     <changefreq>daily</changefreq>
-=======
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>None</loc>
@@ -179,6 +129,5 @@
          <loc>None</loc>
          <lastmod>2021-06-14</lastmod>
          <changefreq>daily</changefreq>
->>>>>>> 42f9a1c648aeca89b1d27f6f197279fd2f8c35db
     </url>
 </urlset>
