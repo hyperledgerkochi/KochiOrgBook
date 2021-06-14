@@ -33,6 +33,8 @@ It is the decentralized workflow application for KOB. It provides a mechanism to
 KOBman utility helps one to create a development environment with ease. KOBman provides each environment bundled with their dependencies so that programmers can focus on their development work.
 
 [Link to repo](https://github.com/hyperledgerkochi/KOBman)
+
+<a href="https://vimeo.com/562887067" target="_blank">Demo</a>
 ***
 
 ## KOBVON
