@@ -6,7 +6,7 @@ Service which provides a digital domicile credentail for the citizens of Kochi.â
 
 [Issues](https://github.com/hyperledgerkochi/KOB-address-verification/issues)
 
-[GitHub page](https://hyperledgerkochi.github.io/KOB-address-verification)
+<a href="https://hyperledgerkochi.github.io/KOB-address-verification" target="_blank">GitHub page</a>
 
 ### Contributor's Profile
 

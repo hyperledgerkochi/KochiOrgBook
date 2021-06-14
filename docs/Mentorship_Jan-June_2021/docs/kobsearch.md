@@ -6,7 +6,8 @@ Search service that provides a registered user with the information about the or
 
 [Issues](https://github.com/hyperledgerkochi/KOBSearch/issues)
 
-[GitHub page](https://hyperledgerkochi.github.io/KOBSearch/)
+<a href="https://hyperledgerkochi.github.io/KOBSearch/" target="_blank">GitHub page</a>
+
 
 ### Contributor's Profile
 

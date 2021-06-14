@@ -7,7 +7,8 @@ A digital SSI wallet application for the citizens of Kochi where the citizens ca
 
 [Issues](https://github.com/hyperledgerkochi/KOBConnect/issues)
 
-[GitHub page](https://hyperledgerkochi.github.io/KOBConnect/)
+<a href="https://hyperledgerkochi.github.io/KOBConnect/" target="_blank">GitHub page</a>
+
 
 ### Contributor's Profile
 
