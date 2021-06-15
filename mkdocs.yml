@@ -13,6 +13,8 @@ nav:
       - 'Generic Use Cases': 'gf_info/generic_use_cases.md'
     - 'KochiOrgBook – Community project initiative for the City of Kochi​': 'gf_info/community_initiative.md'
     - 'KochiOrgBook Sub Projects​': 'gf_info/sub_projects.md'
+    - 'Getting Started Guide':
+      - 'KOBman': 'gf_info/kobman.md'
     - 'How to Contribute': 'gf_info/how to contribute.md'
     - 'Consortium': 'gf_info/consortium.md'
   - Constitutional:
