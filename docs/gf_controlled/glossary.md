@@ -115,4 +115,11 @@ A browser war is competition for dominance in the usage share of web browsers. W
 
 The Credential Registry is a cloud-based library that collects, maintains, and connects information on all types of credentials
 
+## Digital Service Providers
+
+DSPs are providers of DID based solutions.
+
+## Citizen Developers
+
+Citizens of Kochi who are willing to provide specific services through which they can earn a profit. They are also one of the stakeholders.
 

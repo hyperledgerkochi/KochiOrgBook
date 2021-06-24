@@ -1,8 +1,8 @@
 site_name: KochiOrgBook
 theme:
   name: 'material'
-extra_css:
-  - stylesheets/extra.css
+# extra_css:
+#   - stylesheets/extra.css
 
 nav:
   - Informational:
@@ -38,6 +38,7 @@ nav:
       - KOB Address Verification: 'Mentorship_Jan-June_2021/docs/kobavs.md'
       - KOB Phonenumber Verification: 'Mentorship_Jan-June_2021/docs/kobpvs.md'
       - KOB Email Verification: 'Mentorship_Jan-June_2021/docs/kobevs.md'
+      
 
 
         
