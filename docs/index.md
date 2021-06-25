@@ -4,25 +4,30 @@
 
 KochiOrgBook(KOB) is a [Digital Trust Ecosystem](./gf_controlled/glossary.md#digital-trust-ecosystem) project for the city of Kochi. 
 
+![kob](Mentorship_Jan-June_2021/docs/images/kob_icon.jpg)
+
 KOB includes a [Decentralised Identity(DID)](gf_controlled/glossary.md#did--decentralized-identifier) based [Public Identity Utiltity(KOBPIU)](gf_info/sub_projects.md#kochiorgbook-public-identity-utility-kobpiu) network, a [Verifiable Organisations Network(KOBVON)](gf_info/sub_projects.md#kobvon) for the associations in Kochi, an [Association Wallet(KOBAW)](./gf_info/sub_projects.md#kochiorgbook-association-wallet-kobaw), a DID based [Mobile Wallet application(KOBConnect)](gf_info/sub_projects.md#kobconnect) and a [Community Cloud(KOBCC)](gf_info/sub_projects.md#kochiorgbook-community-cloud-kobcc). 
 
 KOB is a technology demonstrator to launch a [DID](gf_controlled/glossary.md#did--decentralized-identifier) based public identity utility compliant with the [ToIP](gf_controlled/glossary.md#toip-trust-over-ip-foundation) standards to enable Trusted digital verification service for various association within the city of Kochi.​
 
 The objective of this initiative is to create a [Digital Trust Ecosystem](./gf_controlled/glossary.md#digital-trust-ecosystem) for the citizens, associations and digital service providers in the city of Kochi by setting up a KOB Consortia and enabling any Association, having it's presence in the city of Kochi, to register on the [KOBVON](gf_info/sub_projects.md#kobvon) network to issue digital proofs and host a Verifiable Credential Registry(VCR) in a transparent and cost efficient manner. 
 
-There are three main stakeholders for KochiOrgBook - **Citizens of Kochi**, **Associations in Kochi** and **Service Providers** who is willing to provide decentralised services. The motivators for these stakeholders are,
+There are three main stakeholders for KochiOrgBook - **Citizens of Kochi**, **Associations in Kochi** and [**Digital Service Providers**](gf_controlled/glossary.md#digital-service-providers). The motivators for these stakeholders are,
 
-* Ownership of one's digital identity.
+<!-- * Ownership of one's digital identity.
 * Privacy.
 * Trusted digital services offering.
-* Low expense in hosting a node.
+* Low expense in hosting a node for associations who doesn't have the necessary infra.
 * Enhance confidency and trust on digital service providers.
 * Dedicated community cloud for availing shared infra.
-* ZKP
-* ISPs will get an access to citizens.
-* Citizens can avail trusted digital services.
-* Citizens and Associations in the city of Kochi can verify their identity with ease.
+* DSPs will get an access to citizens. -->
 
+| <center>Stakeholders</center> | <center>Motivators</center> |
+| ------ | ------ |
+| Citizens | - Ownership of one's digital identity </br> - Privacy </br> - Trusted digital services offering. |
+| Associations | - Ownership of one's digital identity </br> - Privacy </br> - Trusted digital services offering. </br> - Enhance confidency and trust on digital service providers. </br> - Dedicated community cloud for availing shared infra. </br> - Low expense in hosting a node for </br>associations who doesn't have the necessary infra. |
+| Digital Service Providers | - Trusted digital services offering. </br> - Incentivized service offerings |
+| [Citizen Developers](gf_controlled/glossary.md#citizen-developers) | - Incentivized service offerings </br> - Earn valuable experience |
 
 In the current form it may not be feasible for an ordinary citizen to confirm if these association are valid or not due to chance of forgery of documents and we often trust the documents they present making it quite easy to misguide anyone.
 
