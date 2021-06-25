@@ -26,8 +26,8 @@ There are three main stakeholders for KochiOrgBook - **Citizens of Kochi**, **As
 | ------ | ------ |
 | Citizens | - Ownership of one's digital identity </br> - Privacy </br> - Trusted digital services offering. |
 | Associations | - Ownership of one's digital identity </br> - Privacy </br> - Trusted digital services offering. </br> - Enhance confidency and trust on digital service providers. </br> - Dedicated community cloud for availing shared infra. </br> - Low expense in hosting a node for </br>associations who doesn't have the necessary infra. |
-| Digital Service Providers | - Will get an access to citizens </br> - Earn profit for their services. |
-| [Citizen Developers](gf_controlled/glossary.md#citizen-developers) | - Can earn profit for their service offerings. </br> - Earn valuable experience |
+| Digital Service Providers | - Trusted digital services offering. </br> - Incentivized service offerings |
+| [Citizen Developers](gf_controlled/glossary.md#citizen-developers) | - Incentivized service offerings </br> - Earn valuable experience |
 
 In the current form it may not be feasible for an ordinary citizen to confirm if these association are valid or not due to chance of forgery of documents and we often trust the documents they present making it quite easy to misguide anyone.
 
