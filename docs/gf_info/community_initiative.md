@@ -9,7 +9,7 @@ The below diagram shows the interaction between the projects under KOB.
 
 ## KOB as ToIP stack
 
-The below diagram shows the co-relation between ToIP stack and the projects under KOB.
+The below diagram shows the co-relation between ToIP stack and the projects under KOB. The **Technology Stack** contains the projects under KOB and the **Governance Stack** contains the different framework formulated under the KOB Consortia.
 </br></br></br>
 
 ![ToIP relation](../img/toip_relation.png)
