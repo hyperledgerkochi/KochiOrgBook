@@ -14,13 +14,6 @@ This initiative can work around a number of use cases under a particular jurisdi
 
 [Use case diagram](ima_use_case.md)
 
-### <a href="ima_use_case.md" target="_blank">Use case diagram</a>.
-
-
-
-
-
-
 
 ## Lawyers
    
