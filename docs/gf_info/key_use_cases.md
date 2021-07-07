@@ -12,6 +12,16 @@ This initiative can work around a number of use cases under a particular jurisdi
 
    With KochiOrgBook, doctors will be issued a digital identity about who they are and what their qualification is and a normal citizen can access these informations from their fingertips. With this, an individual can make the best decisions on time and with ease.
 
+[Use case diagram](ima_use_case.md)
+
+### <a href="ima_use_case.md" target="_blank">Use case diagram</a>.
+
+
+
+
+
+
+
 ## Lawyers
    
    **Verifiable/Issuing Association - Bar Council of India(Kochi High Court Chapter)**
