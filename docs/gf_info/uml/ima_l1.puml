@@ -1,0 +1,21 @@
+@startuml ima
+scale 2
+left to right direction
+skinparam RectangleBackgroundColor white
+skinparam sequence {
+    ArrowColor black
+    ActorBorderColor black
+    ActorBackgroundColor white
+   
+}
+
+rectangle DSP as dsp
+actor Dr.Alice as alice
+rectangle IMA as ima
+dsp <--- alice : 1
+dsp ---> alice : 2
+alice ---> ima : 3
+alice <--- ima : 4
+
+
+@enduml
