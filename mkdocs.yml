@@ -1,6 +1,7 @@
 site_name: KochiOrgBook
 theme:
   name: 'material'
+  logo: assets/logo.png
 # extra_css:
 #   - stylesheets/extra.css
 
