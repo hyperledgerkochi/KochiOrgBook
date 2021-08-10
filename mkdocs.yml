@@ -3,11 +3,15 @@ repo_url: https://github.com/hyperledgerkochi/KochiOrgBook
 repo_name: hyperledgerkochi/KochiOrgBook
 theme:
   name: 'material'
+<<<<<<< HEAD
   custom_dir: 'docs/overrides'
 markdown_extensions:
   - meta
 hide:
   - navigation
+=======
+  logo: assets/logo.png
+>>>>>>> cf02b6142bc9db8ac42c88eccae984b2948f9d0e
 # extra_css:
 #   - stylesheets/extra.css
 
