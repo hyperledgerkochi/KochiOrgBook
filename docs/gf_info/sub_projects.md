@@ -1,3 +1,7 @@
+---
+hide:
+    - navigation
+---
 # KochiOrgBook Sub Projects​
 
 ## KochiOrgBook Association Wallet (KOBAW)

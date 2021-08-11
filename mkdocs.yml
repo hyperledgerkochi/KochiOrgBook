@@ -1,31 +1,38 @@
 site_name: KochiOrgBook
+repo_url: https://github.com/hyperledgerkochi/KochiOrgBook
+repo_name: hyperledgerkochi/KochiOrgBook
 theme:
   name: 'material'
+  custom_dir: overrides
+  logo: assets/logo.png
+  features:
+    - navigation.tabs
+    - navigation.top
+  favicon: assets/favicon.png
 # extra_css:
 #   - stylesheets/extra.css
+# extra_javascript:
+#   - javascripts/extra.js
+
 
 nav:
-  - Informational:
-    - 'Overview': 'index.md'
-    - 'Mission': 'index.md'
-    - 'Use Cases': 
-      - 'Key Use Cases': 'gf_info/key_use_cases.md'
-      - 'Generic Use Cases': 'gf_info/generic_use_cases.md'
-    - 'KochiOrgBook – Community project initiative for the City of Kochi​': 'gf_info/community_initiative.md'
-    - 'KochiOrgBook Sub Projects​': 'gf_info/sub_projects.md'
-    - 'Getting Started Guide':
-      - 'KOBman': 'gf_info/kobman.md'
-    - 'How to Contribute': 'gf_info/how to contribute.md'
-    - 'Consortium': 'gf_info/consortium.md'
+  - Home: 'index.md'
+  - Overview: 'gf_info/overview.md'
+  - Use Cases:
+    - Key Use Cases: 'gf_info/key_use_cases.md'
+    - Generic Use Cases: 'gf_info/generic_use_cases.md'
+  - Sub Projects: 'gf_info/sub_projects.md'
+  - Getting Started:
+    - KOBman: 'gf_info/kobman.md'
   - Constitutional:
-    - 'Master Document': 'gf_info/master_doc.md'
+    - Master Document: 'gf_info/master_doc.md'
     - Controlled:
-      - 'Glossary': 'gf_controlled/glossary.md'
+      - Glossary: 'gf_controlled/glossary.md'
       - Legal:
         - Member Agreements: 'gf_legal/member_agreements.md'
       - Compliance:
         - 'Trust Assurance': 'gf_assurance/trust_assurance.md'
-  - KOB Mentorship Program: 
+  - Mentorship Program: 
     - Summary: 'Mentorship_Jan-June_2021/docs/index.md'
     - Projects under incubation:
       - KOBAW: 'Mentorship_Jan-June_2021/docs/kobaw.md'
@@ -38,6 +45,42 @@ nav:
       - KOB Address Verification: 'Mentorship_Jan-June_2021/docs/kobavs.md'
       - KOB Phonenumber Verification: 'Mentorship_Jan-June_2021/docs/kobpvs.md'
       - KOB Email Verification: 'Mentorship_Jan-June_2021/docs/kobevs.md'
+  - Contribute: 'gf_info/contribution.md'
+
+# nav:
+#   - Informational:
+#     - 'Overview': 'index.md'
+#     # - 'Mission': 'index.md'
+#     - 'Use Cases': 
+#       - 'Key Use Cases': 'gf_info/key_use_cases.md'
+#       - 'Generic Use Cases': 'gf_info/generic_use_cases.md'
+#     - 'KochiOrgBook – Community project initiative for the City of Kochi​': 'gf_info/community_initiative.md'
+#     - 'KochiOrgBook Sub Projects​': 'gf_info/sub_projects.md'
+#     - 'Getting Started Guide':
+#       - 'KOBman': 'gf_info/kobman.md'
+#     - 'How to Contribute': 'gf_info/how to contribute.md'
+#     - 'Consortium': 'gf_info/consortium.md'
+#   - Constitutional:
+#     - 'Master Document': 'gf_info/master_doc.md'
+#     - Controlled:
+#       - 'Glossary': 'gf_controlled/glossary.md'
+#       - Legal:
+#         - Member Agreements: 'gf_legal/member_agreements.md'
+#       - Compliance:
+#         - 'Trust Assurance': 'gf_assurance/trust_assurance.md'
+#   - KOB Mentorship Program: 
+#     - Summary: 'Mentorship_Jan-June_2021/docs/index.md'
+#     - Projects under incubation:
+#       - KOBAW: 'Mentorship_Jan-June_2021/docs/kobaw.md'
+#       - KOBConnect: 'Mentorship_Jan-June_2021/docs/kobconnect.md'
+#       - KOBPIU: 'Mentorship_Jan-June_2021/docs/kobpiu.md'
+#       - KOBVCR: 'Mentorship_Jan-June_2021/docs/kobvcr.md'
+#       - KOBCC: 'Mentorship_Jan-June_2021/docs/kobcc.md'
+#       - KOBVON: 'Mentorship_Jan-June_2021/docs/kobvon.md'
+#       - KOBSearch: 'Mentorship_Jan-June_2021/docs/kobsearch.md'
+#       - KOB Address Verification: 'Mentorship_Jan-June_2021/docs/kobavs.md'
+#       - KOB Phonenumber Verification: 'Mentorship_Jan-June_2021/docs/kobpvs.md'
+#       - KOB Email Verification: 'Mentorship_Jan-June_2021/docs/kobevs.md'
       
 
 

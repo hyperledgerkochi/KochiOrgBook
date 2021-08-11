@@ -121,4 +121,4 @@ DSPs are providers of DID based solutions.
 
 ## Citizen Developers
 
-Citizens of Kochi who are willing to make contributions to the project, such as hosting a node, resolving issues etc.
+Citizens of Kochi who are willing to make contributions to the project, such as hosting a node, resolving issues, contributing code etc.

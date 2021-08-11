@@ -1,0 +1,260 @@
+{% extends "main.html" %}
+
+{% block styles %}
+    {{ super() }}
+    {% set title = config.site_name %}
+    <link rel="stylesheet" href="./assets/stylesheets/extra.css">
+    <style>
+        /* body {
+            padding: 50px;
+        } */
+    </style>
+{% endblock %}
+{% block content %}
+<body class="is-boxed has-animations" style="padding: 0px;">
+    <!-- <div class="body-wrap"> -->
+        <!-- <header class="site-header">
+            <div class="container">
+                <div class="site-header-inner">
+                    <div class="brand header-brand">
+                        <h1 class="m-0">
+							<a href="#">
+								<img style="" class="header-logo-image" src="./assets/images/logo.png" alt="Logo" width="100px" height="100px">
+                            </a>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </header> -->
+        <main>
+            <section class="hero">
+                <div class="container">
+                    <div class="hero-inner">
+						<div class="hero-copy">
+	                        <h1 style="color: aliceblue; font-size: 40px;" class="hero-title mt-0">KochiOrgBook</h1>
+	                        <p style="color: azure;" class="hero-paragraph">Digital Trust Ecosystem project for the city of Kochi.</p>
+                            <div class="hero-cta"><a class="button button-primary" href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}">Learn more</a></div>
+                            <!-- <div class="hero-cta"><a class="button button-primary" href="{{ 'test/' | url }}" title="Test">Test</a></div> -->
+						</div>
+                   </div>
+                </div>
+                
+            </section>
+            
+            <div class="container">
+            <div class="hero-inner">
+            <p style="text-align: center;color: white; font-size: 25px;" >KochiOrgBook(KOB) is a community initiative focused on building a digital ecosystem for the various associations in Kochi. </p>
+            </div>
+            <br><br><br><br><br><br>
+            <h2 style="text-align: center;font-size: 30px;">Our Stakeholders and what we provide for them</h2>
+            <div class="features-wrap">
+                <div class="feature text-center is-revealing">
+                    <div class="feature-inner">
+                        <div class="feature-icon">
+                            <img src="./assets/images/associations.png" alt="Feature 01">
+                        </div>
+                        <h4 class="feature-title mt-24">Associations in Kochi</h4>
+                    </div>
+                </div>
+            </div>
+            <p>
+                <ul style="text-align: left;color: white;">
+                    <li>Ease in proving your identity</li>
+                    <li>Enabling them to host their digital services </li>
+                    <li>Enable them to provide and validate digital credentials with ease</li>
+                    <li>Associations who does not have the necessary infrastrcture in hosting a node can avail those services from our community cloud</li>
+                </ul>
+            </p>
+            <div class="features-wrap">
+                <div class="feature text-center is-revealing">
+                    <div class="feature-inner">
+                        <div class="feature-icon">
+                            <img src="./assets/images/citizens.png" alt="Feature 01">
+                        </div>
+                        <h4 class="feature-title mt-24">Citizens in Kochi</h4>
+                    </div>
+                </div>
+            </div>
+            <p>
+                <ul style="text-align: left;color: white;">
+                    <li>Privacy</li>
+                    <li>Empowerment to manage your identity</li>
+                    <li>Validate the identity of an individual or associations within the jurisdiction with ease.</li>
+                    <li>Avail digital services with ease.</li>
+                </ul>
+            </p>
+            <div class="features-wrap">
+                <div class="feature text-center is-revealing">
+                    <div class="feature-inner">
+                        <div class="feature-icon">
+                            <img src="./assets/images/dsp.png" alt="Feature 01">
+                        </div>
+                        <h4 class="feature-title mt-24">Digital Service Providers</h4>
+                    </div>
+                </div>
+            </div>
+            <p>
+                <ul style="text-align: left;color: white;">
+                    <li>Provide capabilities in hosting digital services for the citizens of Kochi</li>
+                    <li>Acessibility to all users of KochiOrgBook for offering digital services</li>
+                </ul>
+            </p>
+            <div class="features-wrap">
+                <div class="feature text-center is-revealing">
+                    <div class="feature-inner">
+                        <div class="feature-icon">
+                            <img src="./assets/images/citizen_developer.png" alt="Feature 01">
+                        </div>
+                        <h4 class="feature-title mt-24">Citizen Developers</h4>
+                    </div>
+                </div>
+            </div>
+            <p>
+                <ul style="text-align: left;color: white;">
+                    <li>Work towards enabling digital services</li>
+                    <li>Earn valuable experience in blockchain projects</li>
+                </ul>
+            </p>
+
+            </div>
+
+            <!-- <div class="container">
+                <h2 style="text-align: center;">What we provide for our Stakeholders</h2>
+                <section class="features section">
+                <div class="features-inner section-inner has-bottom-divider">
+                    <div class="features-wrap">
+                        <div class="feature text-center is-revealing">
+                            <div class="feature-inner">
+                                <div class="feature-icon">
+                                    <img src="./assets/images/associations.png" alt="Feature 01">
+                                </div>
+                                <h4 class="feature-title mt-24">For Associations</h4>
+                                <ul style="text-align: left;">
+                                    <li>
+                                        Privacy
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="feature text-center is-revealing">
+                            <div class="feature-inner">
+                                <div class="feature-icon">
+                                    <img src="./assets/images/citizens.png" alt="Feature 01">
+                                </div>
+                                <h4 class="feature-title mt-24">Citizens of Kochi</h4>
+                            </div>
+                        </div>
+                        <div class="feature text-center is-revealing">
+                            <div class="feature-inner">
+                                <div class="feature-icon">
+                                    <img src="./assets/images/dsp.png" alt="Feature 01">
+                                </div>
+                                <h4 class="feature-title mt-24">Digital Service Providers</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </section>
+                </div>
+             -->
+            <div class="container">
+                <h2 style="text-align: center;font-size: 30px;">Our Key Projects</h2>
+            </div>
+            <section class="features section">
+                <div class="container">
+					<div class="features-inner section-inner has-bottom-divider">
+                        <div class="features-wrap">
+                            <div class="feature text-center is-revealing">
+                                <div class="feature-inner">
+                                    <div class="feature-icon">
+										<!-- <img src="./assets/images/privacy.png" alt="Feature 01"> -->
+                                    </div>
+                                    <h4 class="feature-title mt-24"><a href="https://hyperledgerkochi.github.io/KOBPIU/" >KOBPIU</a></h4>
+                                    <p class="text-sm mb-0" style="color: azure;">KOB Public Identity Utility(KOBPIU) is our underlying blockchain network for the jurisdiction</p>
+                                </div>
+                            </div>
+							<div class="feature text-center is-revealing">
+                                <div class="feature-inner">
+                                    <div class="feature-icon">
+										<!-- <img src="./assets/images/ownership.png" alt="Feature 02"> -->
+                                    </div>
+                                    <h4 class="feature-title mt-24"><a href="https://hyperledgerkochi.github.io/KOBVON/" >KOBVON</a></h4>
+                                    <p class="text-sm mb-0" style="color: azure;">KOBVON is a network of Verifiable Organisations registered with KOB.</p>
+                                </div>
+                            </div>
+                            <div class="feature text-center is-revealing">
+                                <div class="feature-inner">
+                                    <div class="feature-icon">
+										<!-- <img src="assets/images/trust.png" alt="Feature 03"> -->
+                                    </div>
+                                    <h4 class="feature-title mt-24"><a href="https://hyperledgerkochi.github.io/KOBAW/" >KOBAW</a></h4>
+                                    <p class="text-sm mb-0" style="color: azure;">KOB Association Wallet(KOBAW) is a decentralised wallet to store the VCs of associations registered with KOB.</p>
+                                </div>
+                            </div>
+                            <div class="feature text-center is-revealing">
+                                <div class="feature-inner">
+                                    <div class="feature-icon">
+										<!-- <img src="assets/images/cloud.png" alt="Feature 04"> -->
+                                    </div>
+                                    <h4 class="feature-title mt-24"><a href="https://hyperledgerkochi.github.io/KOBConnect/" >KOBConnect</a></h4>
+                                    <p class="text-sm mb-0" style="color: azure;">KOBConnect is the mobile wallet application where the citizens of Kochi can store their VCs.</p>
+                                </div>
+                            </div>
+                            <div class="feature text-center is-revealing">
+                                <div class="feature-inner">
+                                    <div class="feature-icon">
+										<!-- <img src="assets/images/secure.png" alt="Feature 04"> -->
+                                    </div>
+                                    <h4 class="feature-title mt-24"><a href="https://hyperledgerkochi.github.io/KOBCC/" >KOBCC</a></h4>
+                                    <p class="text-sm mb-0" style="color: azure;">KOB Community Cloud(KOBCC) is a dedicated cloud network for the associations to avail various hosted srevices. </p>
+                                </div>
+                            </div>
+                            <!-- <div class="feature text-center is-revealing">
+                                <div class="feature-inner">
+                                    <div class="feature-icon">
+										<img src="assets/images/transform.png" alt="Feature 04">
+                                    </div>
+                                    <h4 class="feature-title mt-24">Contribute</h4>
+                                    <p class="text-sm mb-0">We provide citizens of Kochi a chance to transform themselves to Open Source Contributors by contributing to our project and earn incentives from it.</p>
+                                </div>
+                            </div> -->
+ 
+                            <!-- <div class="feature text-center is-revealing">
+                                <div class="feature-inner">
+                                    <div class="feature-icon">
+										<img src="dist/images/feature-icon-05.svg" alt="Feature 05">
+                                    </div>
+                                    <h4 class="feature-title mt-24">Be Productive</h4>
+                                    <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
+                                </div>
+                            </div>
+                            <div class="feature text-center is-revealing">
+                                <div class="feature-inner">
+                                    <div class="feature-icon">
+										<img src="dist/images/feature-icon-06.svg" alt="Feature 06">
+                                    </div>
+                                    <h4 class="feature-title mt-24">Be Productive</h4>
+                                    <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
+                                </div>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+    <!-- </div> -->
+    <!-- {% block scripts %}
+    <script src="./assets/javascripts/extra.js"></script>
+    {% endblock %} -->
+</body>
+{% endblock %}
+        <!-- <main>
+            <section class="hero">
+                <div class="container">
+                    <div class="hero-inner">
+						<div class="hero-copy">
+	                        <h1 class="hero-title mt-0">KochiOrgBook</h1>
+	                        <p class="hero-paragraph">Digital Trust Ecosystem project for the city of Kochi.</p>
+                            <div class="hero-cta"><a class="button button-primary" href="dist/images/icons8-cloud-50.png">Learn more</a></div>
+						</div> -->
+
+                        
