@@ -1,4 +1,4 @@
-# Use Case: Dr. Alice - IMA 
+# Use Case: IMA 
 
 ## Context
 

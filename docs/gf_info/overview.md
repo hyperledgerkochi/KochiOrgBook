@@ -1,22 +1,20 @@
 ---
-template: home.html
-title: KochiorgBook
-hide:
+template: main.html
+title: Overview
+hide: 
     - navigation
     - toc
 ---
 
-
-# KochiOrgBook
-
-## Overview
-
 KochiOrgBook(KOB) is a [Digital Trust Ecosystem](./gf_controlled/glossary.md#digital-trust-ecosystem) project for the city of Kochi. 
 
-<center>
-<img src="img/logo.png" width="200px" height="200px">
-</center>
+<!-- <center>
+<img src="../img/logo.png" width="200px" height="200px">
+</center> --> 
+
 KOB includes a [Decentralised Identity(DID)](gf_controlled/glossary.md#did--decentralized-identifier) based [Public Identity Utiltity(KOBPIU)](gf_info/sub_projects.md#kochiorgbook-public-identity-utility-kobpiu) network, a [Verifiable Organisations Network(KOBVON)](gf_info/sub_projects.md#kobvon) for the associations in Kochi, an [Association Wallet(KOBAW)](./gf_info/sub_projects.md#kochiorgbook-association-wallet-kobaw), a DID based [Mobile Wallet application(KOBConnect)](gf_info/sub_projects.md#kobconnect) and a [Community Cloud(KOBCC)](gf_info/sub_projects.md#kochiorgbook-community-cloud-kobcc). 
+
+Take a look at our [workflow](./community_initiative.md) diagram and [ToIP relation](./community_initiative.md) stack.
 
 KOB is a technology demonstrator to launch a [DID](gf_controlled/glossary.md#did--decentralized-identifier) based public identity utility compliant with the [ToIP](gf_controlled/glossary.md#toip-trust-over-ip-foundation) standards to enable Trusted digital verification service for various association within the city of Kochi.​
 

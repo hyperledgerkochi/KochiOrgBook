@@ -1,4 +1,10 @@
-##  KOB Workflow Diagram
+---
+title: 
+hide:
+    - navigation
+---
+
+##  Workflow Diagram
 
 The below diagram shows the interaction between the projects under KOB.
 </br></br></br>

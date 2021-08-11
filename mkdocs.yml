@@ -3,25 +3,54 @@ repo_url: https://github.com/hyperledgerkochi/KochiOrgBook
 repo_name: hyperledgerkochi/KochiOrgBook
 theme:
   name: 'material'
-<<<<<<< HEAD
-  custom_dir: 'docs/overrides'
-markdown_extensions:
-  - meta
-hide:
-  - navigation
-=======
+  custom_dir: overrides
   logo: assets/logo.png
->>>>>>> cf02b6142bc9db8ac42c88eccae984b2948f9d0e
+  features:
+    - navigation.tabs
+    - navigation.top
+  favicon: assets/favicon.png
 # extra_css:
 #   - stylesheets/extra.css
+# extra_javascript:
+#   - javascripts/extra.js
+
 
 nav:
-  - Overview: 'index.md'
+  - Home: 'index.md'
+  - Overview: 'gf_info/overview.md'
+  - Use Cases:
+    - Key Use Cases: 'gf_info/key_use_cases.md'
+    - Generic Use Cases: 'gf_info/generic_use_cases.md'
+  - Sub Projects: 'gf_info/sub_projects.md'
+  - Getting Started:
+    - KOBman: 'gf_info/kobman.md'
+  - Constitutional:
+    - Master Document: 'gf_info/master_doc.md'
+    - Controlled:
+      - Glossary: 'gf_controlled/glossary.md'
+      - Legal:
+        - Member Agreements: 'gf_legal/member_agreements.md'
+      - Compliance:
+        - 'Trust Assurance': 'gf_assurance/trust_assurance.md'
+  - Mentorship Program: 
+    - Summary: 'Mentorship_Jan-June_2021/docs/index.md'
+    - Projects under incubation:
+      - KOBAW: 'Mentorship_Jan-June_2021/docs/kobaw.md'
+      - KOBConnect: 'Mentorship_Jan-June_2021/docs/kobconnect.md'
+      - KOBPIU: 'Mentorship_Jan-June_2021/docs/kobpiu.md'
+      - KOBVCR: 'Mentorship_Jan-June_2021/docs/kobvcr.md'
+      - KOBCC: 'Mentorship_Jan-June_2021/docs/kobcc.md'
+      - KOBVON: 'Mentorship_Jan-June_2021/docs/kobvon.md'
+      - KOBSearch: 'Mentorship_Jan-June_2021/docs/kobsearch.md'
+      - KOB Address Verification: 'Mentorship_Jan-June_2021/docs/kobavs.md'
+      - KOB Phonenumber Verification: 'Mentorship_Jan-June_2021/docs/kobpvs.md'
+      - KOB Email Verification: 'Mentorship_Jan-June_2021/docs/kobevs.md'
+  - Contribute: 'gf_info/contribution.md'
 
 # nav:
 #   - Informational:
 #     - 'Overview': 'index.md'
-#     - 'Mission': 'index.md'
+#     # - 'Mission': 'index.md'
 #     - 'Use Cases': 
 #       - 'Key Use Cases': 'gf_info/key_use_cases.md'
 #       - 'Generic Use Cases': 'gf_info/generic_use_cases.md'

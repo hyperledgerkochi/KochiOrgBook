@@ -2,7 +2,7 @@
 
 This initiative can work around a number of use cases under a particular jurisdiction. A few of the key use cases are listed below.
 
-![Key Use Cases](../img/kob_key_use_cases.png)
+<!-- ![Key Use Cases](../img/kob_key_use_cases.png) -->
 
 ## Medical Practitioners
    
@@ -52,3 +52,14 @@ This initiative can work around a number of use cases under a particular jurisdi
    **Verifiable/Issuing Association - Universities and Educational Institutions (Kochi)**
 
    In this use case, a student under a particular university will be issued a DID proving him/her a valid student under the university. By leveraging this DID, he/she can work through the university related processes with ease.
+
+## Address proof by Residential Association
+
+**Verifiable/Issuing Association - Residential Associations in Kochi**
+
+There are a number of places and situations where a person will have to submit their address. You will also have to carry proofs to support the genuinity of the submitted address.
+
+Residential associations can issue VCs to its members using which members can prove their current address. These VCs can be stored in a member's [KOBConnect](https://hyperledgerkochi.github.io/KOBConnect/) application. Members can also present this proof with ease using the [KOBConnect](https://hyperledgerkochi.github.io/KOBConnect/) application.
+
+Having a digital proof stored in your mobile wallet can come in handy in the above situations.
+
