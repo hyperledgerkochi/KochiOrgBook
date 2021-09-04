@@ -7,7 +7,8 @@ KOB mentorship program was conducted as a part of the collaboration between [**K
  
 
 <center>
-<img src="images/kob_icon.jpg" alt="KOB" style="width:400px;"/>
+
+<img src="./images/logo.png" alt="KOB" style="width:300px; height=200px"/>
 <img src="images/cusat.png" alt="CUSAT" style="width:550px; height:200px"/>
 </center>
 
