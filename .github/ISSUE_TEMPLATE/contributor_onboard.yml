@@ -1,0 +1,54 @@
+name: Contributor Onboard Request | KOB Technical Working Group
+description: Request KOB to be a part of the KOB Technical Working Group as a contributor.
+title: "CON-R:<Enter your name here>"
+labels: [KOB-TWG, triage]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out to us. Please fill out the below details. 
+        Please make sure that the title of the project is in the format - CON-R:<name>".
+        Eg:- CON-R:Alex
+  
+  - type: input
+    id: github_id
+    attributes:
+      label: GitHub ID
+      placeholder: Enter your GitHub id.
+    validations:
+      required: true
+  
+  - type: input
+    id: email
+    attributes:
+      label: Email ID
+      description: Please enter your Email ID with which we can contact you when needed.
+    validations:
+      required: true
+  
+  - type: textarea
+    id: projects
+    attributes:
+      label: Projects you would like to contibute to. [Learn more](https://thekochiorgbook.github.io/KochiOrgBook/gf_info/sub_projects.html)
+      placeholder:  |
+        1. Enter the name of the project here
+        2. Enter the name of the project here
+        3. Enter the name of the project here
+        [...]
+    validations:
+      required: true
+
+
+  
+  - type: textarea
+    id: skills
+    attributes:
+      label: Skills
+      placeholder: |
+        Talk about your 
+        1. area of expertise
+        2. languages you are familiar with
+        3. tools you are familiar with
+        
+
