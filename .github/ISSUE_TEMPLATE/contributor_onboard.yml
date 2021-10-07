@@ -58,5 +58,7 @@ body:
         1. area of expertise
         2. languages you are familiar with
         3. tools you are familiar with
+    validations:
+      required: true
         
 
