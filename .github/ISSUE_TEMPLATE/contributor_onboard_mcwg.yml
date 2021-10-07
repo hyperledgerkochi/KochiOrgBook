@@ -34,18 +34,6 @@ body:
     validations:
       required: true
   
-  # - type: textarea
-  #   id: projects
-  #   attributes:
-  #     label: Projects 
-  #     description: Enter the list of the projects you would like to contribute to. [Learn more](https://thekochiorgbook.github.io/KochiOrgBook/gf_info/sub_projects.html)
-  #     placeholder:  |
-  #       1. Enter the name of the project here
-  #       2. Enter the name of the project here
-  #       3. Enter the name of the project here
-  #       [...]
-  #   validations:
-  #     required: true
 
   - type: checkboxes
     attributes:
