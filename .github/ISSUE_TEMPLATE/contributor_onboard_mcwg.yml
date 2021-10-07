@@ -1,0 +1,69 @@
+name: Contributor Onboard Request | KOB Marketing & Communications Working Group
+description: Request KOB to be a part of the KOB Marketing & Communications Working Group as a contributor.
+title: "CON-R:<Enter your name here>"
+labels: [KOB-MCWG, triage]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out to us. Please fill out the below details. 
+        Please make sure that the title is in the format - CON-R:[name]".
+        Eg:- CON-R:Alex
+  - type: checkboxes
+    attributes:
+      label: Contribution guidelines
+      description: Please read the contribution guidelines before proceeding.
+      options:
+        - label: I've read the [contribution guidelines](https://thekochiorgbook.github.io/KochiOrgBook/gf_info/contribution.html) and wholeheartedly agree
+          required: true
+  
+  - type: input
+    id: github_id
+    attributes:
+      label: GitHub ID
+      placeholder: Enter your GitHub id.
+    validations:
+      required: true
+  
+  - type: input
+    id: email
+    attributes:
+      label: Email ID
+      description: Please enter your Email ID with which we can contact you when needed.
+    validations:
+      required: true
+  
+  # - type: textarea
+  #   id: projects
+  #   attributes:
+  #     label: Projects 
+  #     description: Enter the list of the projects you would like to contribute to. [Learn more](https://thekochiorgbook.github.io/KochiOrgBook/gf_info/sub_projects.html)
+  #     placeholder:  |
+  #       1. Enter the name of the project here
+  #       2. Enter the name of the project here
+  #       3. Enter the name of the project here
+  #       [...]
+  #   validations:
+  #     required: true
+
+  - type: checkboxes
+    attributes:
+      label: KochiOrgBook Public Identity Utility Governance Framework​
+      description: Tick the box if you would like to contribute to KochiOrgBook Public Identity Utility Governance Framework​ (KOBPIU-GF).
+      options:
+        - label: I would like to contribute to KOBPIU-GF
+          required: true
+  
+  - type: textarea
+    id: skills
+    attributes:
+      label: Experience
+      placeholder: |
+        Talk about your 
+        1. area of expertise
+        2. provide links to any previous works you have done
+    validations:
+      required: false
+        
+
