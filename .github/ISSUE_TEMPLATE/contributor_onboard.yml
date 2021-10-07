@@ -10,6 +10,13 @@ body:
         Thanks for reaching out to us. Please fill out the below details. 
         Please make sure that the title of the project is in the format - CON-R:<name>".
         Eg:- CON-R:Alex
+  - type: checkboxes
+    attributes:
+      label: Contribution guidelines
+      description: Please read the contribution guidelines before proceeding.
+      options:
+        - label: I've read the [contribution guidelines](https://thekochiorgbook.github.io/KochiOrgBook/gf_info/contribution.html) and wholeheartedly agree
+          required: true
   
   - type: input
     id: github_id
