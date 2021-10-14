@@ -22,6 +22,7 @@ body:
     id: github_id
     attributes:
       label: GitHub ID
+      description: Enter your GitHub id from which you wish to contribute. [Create an account](https://github.com/) if you don't have one.
       placeholder: Enter your GitHub id.
     validations:
       required: true
@@ -33,15 +34,6 @@ body:
       description: Please enter your Email ID with which we can contact you when needed.
     validations:
       required: true
-  
-
-  - type: checkboxes
-    attributes:
-      label: KochiOrgBook Public Identity Utility Governance Framework​
-      description: Tick the box if you would like to contribute to KochiOrgBook Public Identity Utility Governance Framework​ (KOBPIU-GF).
-      options:
-        - label: I would like to contribute to KOBPIU-GF
-          required: true
   
   - type: textarea
     id: skills
