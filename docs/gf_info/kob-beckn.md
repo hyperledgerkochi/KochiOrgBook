@@ -24,3 +24,6 @@ Beckn protocol is a set of specifications consisting of APIs, data models, refer
     - Logistics Provider Network - Focuses on final mile delivery.
     - Reputation Management System - Manages post fulfillment phase such as ratings, reviews etc.
 
+## Workflow
+
+![workflow](../img/kob_beckn_workflow.drawio.png)
