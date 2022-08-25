@@ -4,6 +4,15 @@ This initiative can work around a number of use cases under a particular jurisdi
 
 <!-- ![Key Use Cases](../img/kob_key_use_cases.png) -->
 
+
+## Decentralized food delivery platform using Beckn protocol
+
+**Verifiable/Issuing Association - Restaurants' Association(Kochi)**
+
+
+KOB aims to remove complete control from a central entity in the platform by introducing a level of separation among the various stakeholders present which enables an entity to focus only on a particular task in an isolated network. [Learn more](./kob-beckn.md)
+
+
 ## Medical Practitioners
    
    **Verifiable/Issuing Association - IMA(Kochi Chapter)**
@@ -63,11 +72,6 @@ Residential associations can issue VCs to its members using which members can pr
 
 Having a digital proof stored in your mobile wallet can come in handy in the above situations.
 
-## Decentralized food delivery platform using Beckn protocol
-
-A decentralized structure with a design that will create a common consensus that is on one hand competitive and allows a strategic goal-oriented procedure on the other hand. 
-
-KOB aims to remove complete control from a central entity in the platform by introducing a level of seperation among the various stakeholders present which enables an entity to focus only on a particular task in an isolated network. [Learn more](./kob-beckn.md)
 
 
 
