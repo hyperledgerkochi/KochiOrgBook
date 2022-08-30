@@ -1,0 +1,49 @@
+name: Contributor Onboard Request | KOB Marketing & Communications Working Group
+description: Request KOB to be a part of the KOB Marketing & Communications Working Group as a contributor.
+title: "CON-R:<Enter your name here>"
+labels: [KOB-MCWG, triage]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out to us. Please fill out the below details. 
+        Please make sure that the title is in the format - CON-R:[name]".
+        Eg:- CON-R:Alex
+  - type: checkboxes
+    attributes:
+      label: Contribution guidelines
+      description: Please read the contribution guidelines before proceeding.
+      options:
+        - label: I've read the [contribution guidelines](https://thekochiorgbook.github.io/KochiOrgBook/gf_info/contribution.html) and wholeheartedly agree
+          required: true
+  
+  - type: input
+    id: github_id
+    attributes:
+      label: GitHub ID
+      description: Enter your GitHub id from which you wish to contribute. [Create an account](https://github.com/) if you don't have one.
+      placeholder: Enter your GitHub id.
+    validations:
+      required: true
+  
+  - type: input
+    id: email
+    attributes:
+      label: Email ID
+      description: Please enter your Email ID with which we can contact you when needed.
+    validations:
+      required: true
+  
+  - type: textarea
+    id: skills
+    attributes:
+      label: Experience
+      placeholder: |
+        Talk about your 
+        1. area of expertise
+        2. provide links to any previous works you have done
+    validations:
+      required: false
+        
+

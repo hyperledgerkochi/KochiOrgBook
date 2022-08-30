@@ -9,6 +9,7 @@
             width: 50%; /*image width*/
             float: left; /*image position*/
         }
+        p.groove {border-style: groove;}
     </style>
 {% endblock %}
 {% block content %}
@@ -34,7 +35,11 @@
 						<div class="hero-copy">
 	                        <h1 style="color: aliceblue; font-size: 40px;" class="hero-title mt-0">KochiOrgBook</h1>
 	                        <p style="color: azure;" class="hero-paragraph">Digital Trust Ecosystem project for the city of Kochi.</p>
-                            <div class="hero-cta"><a class="button button-primary" href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}">Learn more</a></div>
+                            <div class="hero-cta"><a class="button button-primary" href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}">Learn more</a>
+                                <!-- <a href="{{ 'blue_print/' | url }}" title="KOB Blue Print" class="md-button">
+                                    KOB Blue Print
+                                  </a> -->
+                            </div>
                             <!-- <div class="hero-cta"><a class="button button-primary" href="{{ 'test/' | url }}" title="Test">Test</a></div> -->
 						</div>
                    </div>
@@ -313,6 +318,12 @@
                     </div>
                 </div>
             </section>
+        <!-- <hr style="color: grey;height: 2px;">
+            <div style="color: white; text-align: center;">
+                <p>Click on the button below to contribute</p>
+                <a class="md-button" href="https://github.com/TheKochiOrgBook/KochiOrgBook/issues">Contribute</a> -->
+                
+            </div>
     <!-- </div> -->
     <!-- {% block scripts %}
     <script src="./assets/javascripts/extra.js"></script>

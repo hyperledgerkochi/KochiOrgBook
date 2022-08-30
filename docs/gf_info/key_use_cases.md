@@ -4,6 +4,15 @@ This initiative can work around a number of use cases under a particular jurisdi
 
 <!-- ![Key Use Cases](../img/kob_key_use_cases.png) -->
 
+
+## Decentralized food delivery platform using Beckn protocol
+
+**Verifiable/Issuing Association - Restaurants' Association(Kochi)**
+
+
+KOB aims to remove complete control from a central entity in the platform by introducing a level of separation among the various stakeholders present which enables an entity to focus only on a particular task in an isolated network. By removing monopoly, the opportunity for new participants, small vendors and stakeholders in the network will increase.[Learn more](./kob-beckn.md)
+
+
 ## Medical Practitioners
    
    **Verifiable/Issuing Association - IMA(Kochi Chapter)**
@@ -12,7 +21,7 @@ This initiative can work around a number of use cases under a particular jurisdi
 
    With KochiOrgBook, doctors will be issued a digital identity about who they are and what their qualification is and a normal citizen can access these informations from their fingertips. With this, an individual can make the best decisions on time and with ease.
 
-[Use case diagram](ima_use_case.md)
+<!-- [Use case diagram]() -->
 
 
 ## Lawyers
@@ -62,4 +71,10 @@ There are a number of places and situations where a person will have to submit t
 Residential associations can issue VCs to its members using which members can prove their current address. These VCs can be stored in a member's [KOBConnect](https://hyperledgerkochi.github.io/KOBConnect/) application. Members can also present this proof with ease using the [KOBConnect](https://hyperledgerkochi.github.io/KOBConnect/) application.
 
 Having a digital proof stored in your mobile wallet can come in handy in the above situations.
+
+
+
+
+
+
 
