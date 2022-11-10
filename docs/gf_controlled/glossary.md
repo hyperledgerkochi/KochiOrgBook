@@ -122,3 +122,14 @@ DSPs are providers of DID based solutions.
 ## Citizen Developers
 
 Citizens of Kochi who are willing to make contributions to the project, such as hosting a node, resolving issues, contributing code etc.
+
+## Beckn Protocol
+
+Beckn protocol is a set of specifications consisting of APIs, data models, reference architecture, transaction mechanisms, and global standards that when adopted by digital platforms, enable the creation of decentralized networks. Such networks allow consumers and providers to discover, identify each other and perform transactions with each other without the need for a central intermediary. It can be thought of as a common set of rules of communication mutually agreed upon by several platforms to allow their users to perform discovery, ordering, fulfilment and post-fulfilment activities between each other in a standard way. It is a sector-agnostic protocol, meaning, any industry-specific taxonomy or knowledge model can be represented using the data model of beckn protocol.
+
+## ONDC 
+
+Open Network for Digital Commerce (ONDC) is a network based on open protocol and will enable local commerce across segments, such as mobility, grocery, food order and delivery, hotel booking and travel, among others, to be discovered and engaged by any network-enabled application.
+ 
+The platform aims to create new opportunities, curb digital monopolies and by supporting micro, small and medium enterprises and small traders and help them get on online platforms. It is an initiative of the Department for Promotion of Industry and Internal Trade (DPIIT) under the Ministry of Commerce and Industry.
+

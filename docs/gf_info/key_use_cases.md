@@ -38,7 +38,7 @@ KOB aims to remove complete control from a central entity in the platform by int
 
    Anyone who needs to take up the driving license test should first prove their eligibility, mainly age. Other than age, one should give proof for their identity and address. Then the RTO department goes through the presented documents and declare one eligible, if they approve of it. This entire process can take up a lot of time and individuals will have to provide a number of documents to prove their eligibility and identity.
 
-   This use case is focused on enabling a citizen to present digital proofs to take up driving license test leveraging capabilities of [verifiable credentials](./glossary.md#verifiable-credentialvc) and increase efficiency of the process.
+   This use case is focused on enabling a citizen to present digital proofs to take up driving license test leveraging capabilities of [verifiable credentials](../gf_controlled/glossary.md#verifiable-credentialvc) and increase efficiency of the process.
 
 ## Verification services to provide specific digital identities
    
